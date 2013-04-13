@@ -1,0 +1,17 @@
+MediaWiki Purpose Centric Search Extension
+
+==Prerequisites==
+* Downloaded the extension from SVN
+* MediaWiki 1.19+
+* Install following extensions:
+  1. Flagged Revs
+	2. W4GratingBar
+	3. Infobox Template
+* Download Wordnet 3.0
+
+==Setup==
+* Add the following lines to 'LocalSettings.php':
+	require_once( "$IP/extensions/PurposeCentricSearch/PurposeCentricSearch.php" );
+	$wgWordnetPath = "<Path of Wordnet bin>";
+* Run 'maintenance/update.php' to add the SQL column to page table
+
