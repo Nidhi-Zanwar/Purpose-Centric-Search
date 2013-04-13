@@ -1,5 +1,4 @@
 
-
 <?php
 
 // Extension credits that will show up on Special:Version
