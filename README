@@ -1,0 +1,22 @@
+Purpose Centric Search Extension
+
+* This extension considers three purposes for which any user in any enterprise will search:
+  1. Consume
+	2. Produce
+	3. Maintain
+
+* Consume:
+	A user whose purpose is to reuse the knowledge present in the repository
+	
+	The extension also gives another feature to the user with purpose Consume. The user can specify his expertise in the domain of the query he is searching for as:
+		1. Beginner
+		2. Intermediate
+		3. Expert
+
+* Produce:
+	A user whose purpose is to add/modify knowledge present in the repository
+
+* Maintain:
+	A user whose purpose is to validate contributed knowledge or delete outdated/unused knowledge from the repository
+
+The main goal of the Purpose Centric Search Extension is to order the results depending on the Purpose of the user so as to save time spent in searching.
